@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+/venv/
+
+# Editor-specific files
+.vscode/
+# Uncomment the following lines if you want to ignore specific VS Code files
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+
+# Environment variables
+.env
+.flaskenv
+
+# Testing and coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.sqlite3
+*.db
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+dist/
+build/
+*.egg-info/
+venv/
